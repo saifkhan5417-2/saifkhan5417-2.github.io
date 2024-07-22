@@ -1,7 +1,3 @@
-Certainly! Here’s the README.md content in a template form, with placeholders for you to fill in with your specific details:
-
----
-
 # Portfolio
 
 Welcome to my portfolio! This project is built using React and Bootstrap, showcasing my skills, projects, and experiences. Feel free to explore and connect with me.
