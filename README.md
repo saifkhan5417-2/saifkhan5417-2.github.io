@@ -62,7 +62,3 @@ Make sure you have the following installed:
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and create a pull request.
-
----
-
-You can replace the placeholders `Portfolio`, `saifkhan5417-2`, and `saifkhan5417-2.github.io` with your specific information. Let me know if there's anything else you'd like to add or modify!
